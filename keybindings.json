@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaults
+[
+    // Switch tabs
+    // https://stackoverflow.com/questions/38957302/is-there-a-quick-change-tabs-function-in-visual-studio-code
+    {
+        "key": "Ctrl+PageDown",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "Ctrl+PageUp",
+        "command": "workbench.action.previousEditor"
+    },
+    {
+        "key": "f6",
+        "command": "workbench.action.focusNextPart"
+    },
+    {
+        "key": "shift+f6",
+        "command": "workbench.action.focusPreviousPart"
+    },
+]
