@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "debug.onTaskErrors": "showErrors",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.sideBar.location": "right",
+    "explorer.incrementalNaming": "smart",
+    "screencastMode.verticalOffset": 0,
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "editor.rulers": [
+        80, 120,
+    ]
+}
