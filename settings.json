@@ -1,4 +1,8 @@
 {
+    // Needed to fix flash of unstyled menu on Ubuntu. 
+    // https://github.com/microsoft/vscode/issues/80798
+    // https://github.com/electron/electron/issues/18184
+    "window.titleBarStyle": "custom",
     "editor.fontSize": 16,
     "editor.tabSize": 2,
     "files.trimTrailingWhitespace": true,
