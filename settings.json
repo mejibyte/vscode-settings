@@ -17,5 +17,6 @@
     "editor.rulers": [
         80, 120,
     ],
-    "editor.fontFamily": "Hack", "monospace"
+    "editor.fontFamily": "Hack", "monospace",
+    "editor.bracketPairColorization.enabled": true    
 }
